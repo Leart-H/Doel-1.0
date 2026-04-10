@@ -306,9 +306,11 @@ h6 {
 }
 .fbs__net-navbar .navbar-brand .logo.dark {
   display: none;
+  max-width: 120px;
 }
 .fbs__net-navbar .navbar-brand .logo.light {
   display: block;
+  max-width: 120px;
 }
 .fbs__net-navbar .navbar-nav > li > .nav-link {
   position: relative;
@@ -591,10 +593,12 @@ h6 {
 }
 .fbs__net-navbar.active .navbar-brand .logo.dark {
   display: block;
+  max-width: 120px;
 }
 
 .fbs__net-navbar.active .navbar-brand .logo.light {
   display: none;
+  max-width: 120px;
 }
 
 .fbs__net-navbar.active .nav-link {
@@ -652,10 +656,12 @@ h6 {
 }
 .fbs__net-navbar.dark .navbar-brand .logo.dark {
   display: block;
+  max-width: 120px;
 }
 
 .fbs__net-navbar.dark .navbar-brand .logo.light {
   display: none;
+  max-width: 120px;
 }
 
 .fbs__net-navbar.dark a {
@@ -676,10 +682,12 @@ h6 {
 }
 .fbs__net-navbar .offcanvas-header .offcanvas-header-logo .logo-link .logo.dark {
   display: block;
+  max-width: 120px;
 }
 
 .fbs__net-navbar .offcanvas-header .offcanvas-header-logo .logo-link .logo.light {
   display: none;
+  max-width: 120px;
 }
 
 
